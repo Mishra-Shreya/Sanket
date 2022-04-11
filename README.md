@@ -4,11 +4,11 @@ _**Speech to Indian Sign Language translator**_
 
 ## Getting Started
 
-**Sanket** is (currently) an _Android_ based _Indian Sign Langauge Mediator mobile app_ made using _Flutter_.
+**Sanket** is (currently) an _Android_ based _Indian Sign Langauge Mediator mobile app_ made using _Flutter_ and _Blender_.
 
 _This project was created as a part of school-pbl-activity._
 
-... Still under development :wink: ...
+... Project's still under development :wink: ...
 ## Screenshots 
 _Demo gif (x3 speed) :_
 
