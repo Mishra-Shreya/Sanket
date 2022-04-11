@@ -8,6 +8,7 @@ _**Speech to Indian Sign Language translator**_
 
 _This project was created as a part of school-pbl-activity._
 
+... Still under development :wink: ...
 ## Screenshots 
 _Demo gif (x3 speed) :_
 
