@@ -1,6 +1,6 @@
 # Sanket
-Introducing... **SANKET**
-**Speech to Indian Sign Language translator**
+Introducing... **SANKET** - 
+_**Speech to Indian Sign Language translator**_
 
 ## Getting Started
 
