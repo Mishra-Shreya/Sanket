@@ -12,7 +12,6 @@ _This project was created as a part of school-pbl-activity._
 ## Screenshots 
 
 #### App:
-<img src="https://user-images.githubusercontent.com/69296480/163388178-0cc5afe9-698f-4e37-9025-40f1d2ca8dab.jpg" width="200">
 
 ##### Splash screen:
 <img src="https://user-images.githubusercontent.com/69296480/163388210-749c706e-93ff-4fc4-b79d-dfa58bfa52fb.jpg" width="200">
