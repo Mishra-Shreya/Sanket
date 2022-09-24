@@ -14,6 +14,7 @@ _This project's created as a part of school-pbl-activity._
 ## Table of contents
 
 - [Installation](#installation)
+- [Folder Structure](#folder-structure)
 - [Screenshots](#screenshots)
 - [Demo](#demo)
 - [Conclusion](#conclusion)
@@ -36,6 +37,42 @@ Go to project root and execute the following command in console to get the requi
 ```
 flutter pub get 
 ```
+
+### Folder Structure
+Here is the core folder structure.
+
+```
+flutter-app/
+|- android
+|- assets
+|- ios
+|- lib
+|- test
+```
+
+Here is the folder structure we have been using in this project
+
+```
+assets/
+|- ISL_Gifs/
+|- letters/
+|- logo/
+
+
+lib/
+|- main.dart
+|- speechToSign.dart
+|- utils.dart
+```
+
+Now, lets dive into the lib folder which has the main code for the application.
+
+```
+1- main.dart - This is the starting point of the application. 
+2- speechToSign.dart — This file is the heart of the application. Major application level configurations : Home Screen UI, Translation logic are defined in this file.
+3- utils.dart — This file contains all the utilities such as list for phrases, words, letters, etc for your translation.
+```
+
 
 ## Screenshots 
 
