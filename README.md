@@ -10,7 +10,7 @@ _This project's created as a part of school-pbl-activity._
 
 ... Project's still under development :wink: ...
 
-## How to Use 
+## Installation
 
 **Step 1:**
 
