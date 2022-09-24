@@ -10,6 +10,15 @@ _This project's created as a part of school-pbl-activity._
 
 ... Project's still under development :wink: ...
 
+
+## Table of contents
+
+- [Installation](#installation)
+- [Screenshots](#screenshots)
+- [Demo](#demo)
+- [Conclusion](#conclusion)
+
+
 ## Installation
 
 **Step 1:**
