@@ -33,22 +33,22 @@ flutter pub get
 #### App:
 
 <table>
-  <tr>
-    <td>Splash screen</td>
-    <td>On Startup</td>
-    <td colspan="2">During translation</td>
-    <td colspan="2">On Refresh</td>
-    <td>Demo (x2 speed)</td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/69296480/163388210-749c706e-93ff-4fc4-b79d-dfa58bfa52fb.jpg" ></td>
-    <td><img src="https://user-images.githubusercontent.com/69296480/163388238-110fccb2-6e38-40d5-91b5-4454bda0c8dc.jpg" ></td>
-    <td><img src="https://user-images.githubusercontent.com/69296480/163388245-0a2193f1-b39e-4b0d-b783-734590428406.jpg" ></td>
-    <td><img src="https://user-images.githubusercontent.com/69296480/163388290-ec9aa348-cbc2-47a1-a09c-87f195d79be8.jpg" ></td>
-    <td><img src="https://user-images.githubusercontent.com/69296480/163388312-a4ea2952-f601-4668-8714-91abf8b983f2.jpg" ></td>
-    <td><img src="https://user-images.githubusercontent.com/69296480/163388328-4d870390-d89d-4f6a-be17-4a90b5db9aa8.jpg" ></td>
-    <td><img src="https://user-images.githubusercontent.com/69296480/192119484-c0ec4b9a-1a11-45d1-9ea5-eedb22d79618.gif" ></td>
-  </tr>
+<tr>
+<td>Splash screen</td>
+<td>On Startup</td>
+<td colspan="2">During translation</td>
+<td colspan="2">On Refresh</td>
+<td>Demo (x2 speed)</td>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/69296480/163388210-749c706e-93ff-4fc4-b79d-dfa58bfa52fb.jpg" width="120"></td>
+<td><img src="https://user-images.githubusercontent.com/69296480/163388238-110fccb2-6e38-40d5-91b5-4454bda0c8dc.jpg" width="120"></td>
+<td><img src="https://user-images.githubusercontent.com/69296480/163388245-0a2193f1-b39e-4b0d-b783-734590428406.jpg" width="120"></td>
+<td><img src="https://user-images.githubusercontent.com/69296480/163388290-ec9aa348-cbc2-47a1-a09c-87f195d79be8.jpg" width="120"></td>
+<td><img src="https://user-images.githubusercontent.com/69296480/163388312-a4ea2952-f601-4668-8714-91abf8b983f2.jpg" width="120"></td>
+<td><img src="https://user-images.githubusercontent.com/69296480/163388328-4d870390-d89d-4f6a-be17-4a90b5db9aa8.jpg" width="120"></td>
+<td><img src="https://user-images.githubusercontent.com/69296480/192119484-c0ec4b9a-1a11-45d1-9ea5-eedb22d79618.gif" width="115"></td>
+</tr>
 </table>
 
 ## Conclusion
