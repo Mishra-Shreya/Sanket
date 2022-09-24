@@ -30,15 +30,12 @@ flutter pub get
 
 ## Screenshots 
 
-#### App:
-
 <table>
 <tr>
 <td>Splash Screen</td>
 <td>On Startup</td>
 <td colspan="2">During Translation</td>
 <td colspan="2">On Refresh</td>
-<td>Demo</td>
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/69296480/163388210-749c706e-93ff-4fc4-b79d-dfa58bfa52fb.jpg" width="125"></td>
@@ -47,9 +44,12 @@ flutter pub get
 <td><img src="https://user-images.githubusercontent.com/69296480/163388290-ec9aa348-cbc2-47a1-a09c-87f195d79be8.jpg" width="125"></td>
 <td><img src="https://user-images.githubusercontent.com/69296480/163388312-a4ea2952-f601-4668-8714-91abf8b983f2.jpg" width="125"></td>
 <td><img src="https://user-images.githubusercontent.com/69296480/163388328-4d870390-d89d-4f6a-be17-4a90b5db9aa8.jpg" width="125"></td>
-<td><img src="https://user-images.githubusercontent.com/69296480/192119484-c0ec4b9a-1a11-45d1-9ea5-eedb22d79618.gif" width="120"></td>
 </tr>
 </table>
+
+## Demo 
+
+<img src="https://user-images.githubusercontent.com/69296480/192119484-c0ec4b9a-1a11-45d1-9ea5-eedb22d79618.gif" width="200">
 
 ## Conclusion
 
