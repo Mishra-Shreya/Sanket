@@ -53,12 +53,6 @@ flutter-app/
 Here is the folder structure we have been using in this project
 
 ```
-assets/
-|- ISL_Gifs/
-|- letters/
-|- logo/
-
-
 lib/
 |- main.dart
 |- speechToSign.dart
